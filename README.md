@@ -17,7 +17,7 @@ Nossa equipe é composta por:
 - [Natanael](https://github.com/natanael89)
 - [Tiko](https://github.com/Tikorsm)
 - [Luan](https://github.com/LuanGabriel23)
-- [Pedro]()
+- [Pedro](https://github.com/pedrofeijoo)
 
 
 
